@@ -1,6 +1,6 @@
 {
-  "name": "discord-frontend",
-  "version": "0.1.0",
+  "name": "social-chat-frontend",
+  "version": "0.95.0",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.4.1",
